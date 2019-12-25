@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "cn.geeksteam.staff"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "cn.geeksteam.staff"
+    },
+    "cordova-plugin-wechat": {
+      "WECHATAPPID": "wx182e6aa19a5e1aa8",
+      "PACKAGE_NAME": "cn.geeksteam.staff"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "cn.geeksteam.staff"
+    }
+  },
+  "dependent_plugins": {}
+}
