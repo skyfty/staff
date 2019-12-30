@@ -15,7 +15,7 @@
   "dependencies": {
     "cordova-android": "8.1.0",
     "cordova-browser": "6.0.0",
-    "cordova-ios": "5.1.1",
+    "cordova-ios": "^5.1.1",
     "cordova-plugin-app-version": "^0.1.9",
     "cordova-plugin-camera": "^4.1.0",
     "cordova-plugin-wechat": "^2.9.0"
@@ -31,8 +31,8 @@
     },
     "platforms": [
       "android",
-      "ios",
-      "browser"
+      "browser",
+      "ios"
     ]
   },
   "devDependencies": {
