@@ -400,7 +400,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1.0.13;
+				CURRENT_PROJECT_VERSION = 1.0.17;
 				DEVELOPMENT_TEAM = "";
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -415,7 +415,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)/Plugins/cordova-plugin-wechat\"",
 				);
-				MARKETING_VERSION = 1.0.13;
+				MARKETING_VERSION = 1.0.17;
 				PRODUCT_BUNDLE_IDENTIFIER = cn.geeksteam.staff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "6fc876f5-40ba-4e60-aaf6-376a3c91480b";
@@ -436,7 +436,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1.0.13;
+				CURRENT_PROJECT_VERSION = 1.0.17;
 				DEVELOPMENT_TEAM = 4852RVF8ZC;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "极客思迪教师客户端/极客思迪教师客户端-Prefix.pch";
@@ -449,7 +449,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)/Plugins/cordova-plugin-wechat\"",
 				);
-				MARKETING_VERSION = 1.0.13;
+				MARKETING_VERSION = 1.0.17;
 				PRODUCT_BUNDLE_IDENTIFIER = cn.geeksteam.staff;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "6fc876f5-40ba-4e60-aaf6-376a3c91480b";

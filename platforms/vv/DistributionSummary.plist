@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>极客思迪教师客户端.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BACD45ADCFF5FF09598E579A512738DFD41D2B01</string>
+				<key>dateExpires</key>
+				<string>12/30/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4852RVF8ZC.cn.geeksteam.staff</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4852RVF8ZC</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>极客思迪教师客户端.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6fc876f5-40ba-4e60-aaf6-376a3c91480b</string>
+				<key>name</key>
+				<string>staff</string>
+			</dict>
+			<key>symbols</key>
+			<false/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4852RVF8ZC</string>
+				<key>name</key>
+				<string>Beijing LightGlory technology co., LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
